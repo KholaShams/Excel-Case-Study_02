@@ -18,7 +18,7 @@
    - [Video Completion Rate (VTR) by Market and Platform](#video-completion-rate-vtr-by-market-and-platform)
    - [Engagement, CPC, CTR, and VTR Overview](#engagement-cpc-ctr-and-vtr-overview)
    - [Audience Segmentation Analysis](#audience-segmentation-analysis)
-4. [Visualizations](#visualizations)
+4. [Visualizations](#Visualizations)
 5. [Macros Implementation](#macros-implementation)
    - [Data Refresh Macro](#data-refresh-macro)
    - [Performance Filter Macro](#performance-filter-macro)
