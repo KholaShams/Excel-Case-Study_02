@@ -11,9 +11,9 @@
 
 1. [Introduction](#introduction)
 2. [Data Cleaning, Preparation, and Analysis Steps](#data-cleaning-preparation-and-analysis-steps)
-   - [TikTok Data Cleaning Process](#tiktok-data-cleaning-process)
-   - [Meta Data Cleaning Process](#meta-data-cleaning-process)
-   - [Snapchat Data Cleaning Process](#snapchat-data-cleaning-process)
+   - [TikTok Data Cleaning Process](#1.-TikTok-Data-Cleaning-Process)
+   - [Meta Data Cleaning Process](#2.-meta-data-cleaning-process)
+   - [Snapchat Data Cleaning Process](#3.-snapchat-data-cleaning-process)
 3. [Pivot Tables and Key Insights](#pivot-tables-and-key-insights)
    - [Platform Analysis](#platform-analysis)
    - [Comprehensive Performance by Platform](#comprehensive-performance-by-platform)
@@ -319,10 +319,17 @@ To streamline the analysis and ensure the process could be easily replicated, I 
 
 
 2. **Performance Filter Macro:**
-   - **Function:** Filter the summary sheets to highlight campaigns with a `Good` performance status as green.
+   - **Function:** Filter the summary sheets to highlight campaigns with a "Good" performance status, applying a green highlight.
+  
    - **Steps:**
-     - Recorded a macro to apply filters across the summary sheets, highlighting only the top-performing campaigns.
-   - **Outcome:** Enabled quick access to high-performing campaigns, aiding in fast decision-making.
+     - Recorded a macro that automatically applies a filter to display only the campaigns with a "Good" performance status.
+     - Implemented conditional formatting to highlight these top-performing campaigns in green.
+
+   - **Challenges:**
+     - **Filtering Issue:** Initially, the filter applied in the macro would reset whenever the data was refreshed, causing inconsistencies.
+     - **Solution:** To resolve this, I added a step in the macro to reapply the filter after every data refresh, ensuring the "Good" performance campaigns remain highlighted.
+
+   - **Outcome:** This macro streamlined the process of identifying top-performing campaigns, enabling faster, data-driven decision-making.
 
 ![Performance Filter Macro](https://github.com/user-attachments/assets/009e88b5-c1dc-4e65-873c-b182bcfa7e67)
 
