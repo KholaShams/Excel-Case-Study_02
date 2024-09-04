@@ -44,7 +44,7 @@ The data cleaning process was cautiously structured to ensure the data was accur
 
 ---
 
-### **1. TikTok Data Cleaning Process:**
+### **1. TikTok Data Cleaning Process**
 
 **Initial Data Structure:**
 - **Columns:**`Sourcesheet`, `Market`, `Channel`, `Compaign Name`, `Compaign attributes`, `compaign id`, `Audience`, `Duration`, `Language` , `Format`, `Creative Variation`, `Amount Spent`, `Clicks`, `CPC`, `Paid Reach`, `Total Impressions`, `CTR`, `CPM`,`2 Second Video Views`, `Video Completions`, `VTR (2 Sec)`, `VTR (Complete)`, `Total Engagement`, `Engagement Rate`
@@ -102,7 +102,7 @@ The data cleaning process was cautiously structured to ensure the data was accur
 
 ---
 
-### **2. Meta Data Cleaning Process:**
+### **2. Meta Data Cleaning Process**
 
 **Initial Data Structure:**
 - **Columns:** `Source sheet`, `Market`, `Compaign attributes`, `Compaign Name`, `Compaign ID`, `Duration`, `Audience`, `Language`, `Format`, `Creative variations`, `Reach`, `Impressions`, `Amount spent (USD)`, `Link clicks`, `CPC`, `3-second video plays`, `Video plays at 100%`, `CTR(all)`, `CTR Evaluation`, `all ctr evaluation`, `VTR`, `Age Group`, `Post engagement`, `total engagement`, `Engagement Rate 2`
@@ -142,7 +142,7 @@ The data cleaning process was cautiously structured to ensure the data was accur
 
 ---
 
-### **3. Snapchat Data Cleaning Process:**
+### **3. Snapchat Data Cleaning Process**
 
 **Initial Data Structure:**
 - **Columns:** `Sourcesheet`, `Market`, `Channel`, `Compaign ID`, `Compaign Name`, `Campaign Strategy`, `Audience`, `Duration`, `Language`, `Format`, `Creative Variation`, `Amount Spent`, `Engagement Rate`, `Engagement`, `Clicks`, `CPC`, `CTR`, `Clicks Rate`, `Paid Reach`, `Total Impressions`, `Paid Frequency`, `Paid eCPM`, `2 Second Video Views`, `Video Completions`, `VTR%`
