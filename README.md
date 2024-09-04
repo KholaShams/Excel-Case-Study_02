@@ -1,5 +1,6 @@
 # Excel-Case-Study_02
 ---
+
 ### **Final Report: Analyzing a Ramadan Digital Marketing Campaign in Excel**
 
 ---
@@ -151,9 +152,6 @@ The data cleaning process was cautiously structured to ensure the data was accur
      - Cross-referenced calculated columns (`CTR`, `CPC`) with raw data to verify accuracy.
      - Ensured that all columns had consistent data types and no missing values.
    - **Outcome:** All calculated metrics were validated, and the dataset was consistent across all columns.
-
----
-Thanks for sharing your pivot tables. Now, let's modify the "Pivot Tables and Key Insights" section of your report to reflect this data.
 
 ---
 
