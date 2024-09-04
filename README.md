@@ -1,7 +1,31 @@
 # Excel-Case-Study_02
 ---
 
-### **Final Report: Analyzing a Ramadan Digital Marketing Campaign in Excel**
+## **Final Report: Analyzing a Ramadan Digital Marketing Campaign in Excel**
+---
+
+### Table of Contents
+
+1. [Introduction](#introduction)
+2. [Data Cleaning, Preparation, and Analysis Steps](#data-cleaning-preparation-and-analysis-steps)
+   - [TikTok Data Cleaning Process](#tiktok-data-cleaning-process)
+   - [Meta Data Cleaning Process](#meta-data-cleaning-process)
+   - [Snapchat Data Cleaning Process](#snapchat-data-cleaning-process)
+3. [Pivot Tables and Key Insights](#pivot-tables-and-key-insights)
+   - [Platform Analysis](#platform-analysis)
+   - [Comprehensive Performance by Platform](#comprehensive-performance-by-platform)
+   - [Campaign-Level Performance](#campaign-level-performance)
+   - [Video Completion Rate (VTR) by Market and Platform](#video-completion-rate-vtr-by-market-and-platform)
+   - [Engagement, CPC, CTR, and VTR Overview](#engagement-cpc-ctr-and-vtr-overview)
+   - [Audience Segmentation Analysis](#audience-segmentation-analysis)
+4. [Visualizations](#visualizations)
+5. [Macros Implementation](#macros-implementation)
+   - [Data Refresh Macro](#data-refresh-macro)
+   - [Performance Filter Macro](#performance-filter-macro)
+   - [Conditional Formatting Macro](#conditional-formatting-macro)
+   - [Formatting Summary Sheet Macro](#formatting-summary-sheet-macro)
+6. [Conclusion and Recommendations](#conclusion-and-recommendations)
+
 
 ---
 
