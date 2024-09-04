@@ -293,7 +293,7 @@ Millennials demonstrate a higher conversion rate compared to Boomers, with a sig
 
 
 
- **Visualizations:**
+ ### **Visualizations:**
 Following is the final Dashboard Created that includes all the visualizations created through out to better visualize, understand, and find interesting insights from the data:
 
 
