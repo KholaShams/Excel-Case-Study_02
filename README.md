@@ -1,7 +1,7 @@
 # Excel-Case-Study_02
 ---
 
-## **Final Report: Analyzing a Ramadan Digital Marketing Campaign in Excel**
+## **Case Study: Analyzing a Ramadan Digital Marketing Campaign in Excel**
 
 ![dashboard 3](https://github.com/user-attachments/assets/0aaf0d41-76e5-49b5-8a49-ecdb7f5734cb)
 
