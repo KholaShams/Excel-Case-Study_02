@@ -191,8 +191,7 @@ The analysis begins by examining the performance across different platforms: Met
 
 This indicates that the CPC for MetaData cleaned is significantly higher compared to the other two platforms, suggesting a higher cost efficiency for Snapchat and TikTok in terms of clicks.
 
-
-
+![Platform Analysis](https://github.com/user-attachments/assets/3eb6ed68-8a40-49d8-9473-c7f00200621d)
 
 #### Comprehensive Performance by Platform
 A deeper analysis was conducted by aggregating the key metrics (Clicks, CPC, and Amount Spent) across the three platforms:
@@ -214,6 +213,7 @@ A deeper analysis was conducted by aggregating the key metrics (Clicks, CPC, and
 
 MetaData cleaned had the highest number of clicks and total spending, yet its CPC remains considerably higher. Snapchat, although having the lowest number of clicks, presents a cost-effective CPC.
 
+![Comprehensive Performance by Platform](https://github.com/user-attachments/assets/c6ce3bd4-07b7-4047-85e9-12824321f5e3)
 
 #### Campaign-Level Performance
 The performance at the campaign level was scrutinized by evaluating Total Impressions, Clicks, and Click-Through Rate (CTR):
@@ -233,7 +233,7 @@ The performance at the campaign level was scrutinized by evaluating Total Impres
     - CTR: **24.85%**  
     This campaign in the AE market has the highest CTR, indicating effective engagement with the target audience.
 
-
+![Campaign Level Performance](https://github.com/user-attachments/assets/7faf0d06-4525-4851-adb2-e455afd64f07)
 
 #### Video Completion Rate (VTR) by Market and Platform
 The analysis of Video Completion Rate (VTR) across different markets and platforms yielded the following:
@@ -247,7 +247,7 @@ The analysis of Video Completion Rate (VTR) across different markets and platfor
 
 MetaData cleaned demonstrates superior VTR across various markets, with Snapchat performing well in certain regions like BH.
 
-
+![Video Completion Rate (VTR) by Market and Platform](https://github.com/user-attachments/assets/cbebc256-a07b-48ed-abbd-ecff5ed79cde)
 
 #### Engagement, CPC, CTR, and VTR Overview
 A consolidated analysis across MetaData cleaned, Snapchat cleaned data, and TikTok cleaned Data was conducted to evaluate Engagement Rate, CPC, CTR, and VTR:
@@ -272,6 +272,7 @@ A consolidated analysis across MetaData cleaned, Snapchat cleaned data, and TikT
 
 MetaData cleaned stands out with the highest engagement rate and VTR, although with a higher CPC. Snapchat's CPC remains low but shows relatively lower engagement and VTR.
 
+![Engagement, CPC, CTR, and VTR Overview](https://github.com/user-attachments/assets/89816923-c29a-436e-8030-38984cff9b2e)
 
 
 #### Audience Segmentation Analysis
@@ -291,12 +292,13 @@ The final part of the analysis focuses on audience segmentation, specifically co
 
 Millennials demonstrate a higher conversion rate compared to Boomers, with a significantly higher volume of impressions and clicks, indicating more effective engagement with this demographic.
 
+![Audience Segmentation Analysis](https://github.com/user-attachments/assets/0203b577-bd44-4214-9509-52c065620045)
 
 
  ### **Visualizations:**
 Following is the final Dashboard Created that includes all the visualizations created through out to better visualize, understand, and find interesting insights from the data:
 
-
+![Dashboard](https://github.com/user-attachments/assets/52ff439b-543b-4226-bd7e-6bb2c8e442d5)
 
 ---
 
@@ -310,6 +312,7 @@ To streamline the analysis and ensure the process could be easily replicated, I 
      - Created a macro that refreshes all Pivot Tables across the workbook with a single click.
    - **Outcome:** Streamlined the data update process, ensuring the analysis was always based on the most current data. 
 
+![Data Refresh Macro](https://github.com/user-attachments/assets/dc5f97d8-41da-4d76-ad67-faf29b6bc1a7)
 
 
 2. **Performance Filter Macro:**
@@ -318,6 +321,7 @@ To streamline the analysis and ensure the process could be easily replicated, I 
      - Recorded a macro to apply filters across the summary sheets, highlighting only the top-performing campaigns.
    - **Outcome:** Enabled quick access to high-performing campaigns, aiding in fast decision-making.
 
+![Performance Filter Macro](https://github.com/user-attachments/assets/009e88b5-c1dc-4e65-873c-b182bcfa7e67)
 
 
 3. **Conditional Formatting Macro:**
@@ -325,6 +329,8 @@ To streamline the analysis and ensure the process could be easily replicated, I 
    - **Steps:**
      - Created a macro that applies conditional formatting to engagement rate columns, coloring cells based on performance thresholds.
    - **Outcome:** Automated the process of visualizing high and low performers, making insights more accessible.
+     
+![Performance Filter Macro](https://github.com/user-attachments/assets/d74a898b-2c40-4c1b-8979-75c0009a3791)
 
 
 4. **Formatting Summary Sheet Macro:**
@@ -336,6 +342,9 @@ To streamline the analysis and ensure the process could be easily replicated, I 
   - **Autofit Rows:** Adjusts row heights to fit content.
   - **Borders:** Adds thin, continuous borders around the data range and inside cells for improved readability.
 - **Outcome:** Creates a visually appealing and organized summary sheet, enhancing data presentation and readability.
+
+![Formatting Summary Sheet Macro1](https://github.com/user-attachments/assets/9daadaeb-5154-4ec4-939a-b4658114b275)
+![Formatting Summary Sheet Macro2](https://github.com/user-attachments/assets/79042187-19a7-48e2-9c47-e695d231fe64)
 
 
 ### **Conclusion and Recommendations:**
@@ -362,4 +371,3 @@ The detailed analysis of the Ramadan digital marketing campaign data across TikT
 By applying these recommendations, future campaigns can be optimized for better performance and ROI.
 
 ---
-
