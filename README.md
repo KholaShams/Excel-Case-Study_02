@@ -3,7 +3,7 @@
 
 ## **Final Report: Analyzing a Ramadan Digital Marketing Campaign in Excel**
 
-![image](https://github.com/user-attachments/assets/7e835369-d9c7-4fb8-9850-cf92dcff7c28)
+![dashboard 3](https://github.com/user-attachments/assets/0aaf0d41-76e5-49b5-8a49-ecdb7f5734cb)
 
 --- 
 
@@ -301,7 +301,7 @@ Millennials demonstrate a higher conversion rate compared to Boomers, with a sig
  ### **Visualizations:**
 Following is the final Dashboard Created that includes all the visualizations created through out to better visualize, understand, and find interesting insights from the data:
 
-![Dashboard](https://github.com/user-attachments/assets/52ff439b-543b-4226-bd7e-6bb2c8e442d5)
+![dashboard 2](https://github.com/user-attachments/assets/4744db6a-8f15-41c6-b844-21231a7f3c50)
 
 ---
 
