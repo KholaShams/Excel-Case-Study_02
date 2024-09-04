@@ -3,6 +3,9 @@
 
 ## **Final Report: Analyzing a Ramadan Digital Marketing Campaign in Excel**
 ---
+![image](https://github.com/user-attachments/assets/7e835369-d9c7-4fb8-9850-cf92dcff7c28)
+
+--- 
 
 ### Table of Contents
 
